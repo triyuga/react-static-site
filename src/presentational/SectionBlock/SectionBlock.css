@@ -1,0 +1,13 @@
+.SectionBlock {
+    padding: 40px 20px;
+    text-align:  left;
+}
+
+.SectionBlock:first-of-type {
+    padding-top: 60px
+}
+
+.SectionBlock-inner {
+    width: 900px;
+    margin: 0 auto;
+}

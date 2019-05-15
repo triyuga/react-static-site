@@ -3,18 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/axios": "^0.14.0",
     "@types/jest": "24.0.11",
     "@types/node": "11.13.4",
     "@types/react": "16.8.13",
     "@types/react-dom": "16.8.4",
+    "@types/recompose": "^0.30.5",
+    "axios": "^0.18.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
+    "recompose": "^0.30.0",
     "typescript": "3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && react-snapshot",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -26,5 +30,12 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "json-loader": "^0.5.7",
+    "react-snapshot": "^1.3.0"
+  },
+  "reactSnapshot": {
+    "snapshotDelay": 3000
+  }
 }

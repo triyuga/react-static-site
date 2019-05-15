@@ -1,0 +1,32 @@
+{
+    "slug": "mct1",
+    "blocks": [
+        {
+            "type": "section",
+            "block": {
+                "title": "MC:T1 - Minecraft for Type 1 Diabetes -- LOCAL",
+                "subtitle": "",
+                "html": "<p>Type 1 diabetes can be tough. Whether learning to control your own condition, trying to help a recently-diagnosed family member, or just getting your friends to understand, the road to good diabetes management can be difficult, even frustrating at times.</p>\n<p>But it doesn’t have to be.</p>\n<h3>Learn through play</h3>\n<p>Created by the founders of Magikcraft.io, Minecraft for Type 1 Diabetes (MC:T1) is an open-source Minecraft mod aimed at teaching diabetics and non-diabetics about the condition. We want to leverage the inherent engagement and fun of gaming to help kids (and adults) work through tough topics.</p>\n<h3>What better game than Minecraft?</h3>\n<p>With over 74 million people playing every month, Minecraft is the most popular game of this generation. Players as young as 5 can enjoy the easily understood controls, enormous depth and myriad of different play-styles. The huge player-base and ease of access makes Minecraft not only a great gaming experience but a brilliant tool for education, activism and health.</p>\n<p><img class=\"alignnone size-medium wp-image-33\" src=\"http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084738/minecraft-hero-og-300x158.jpg\" alt=\"\" width=\"300\" height=\"158\" srcset=\"http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084738/minecraft-hero-og-300x158.jpg 300w, http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084738/minecraft-hero-og-768x403.jpg 768w, http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084738/minecraft-hero-og-1024x538.jpg 1024w, http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084738/minecraft-hero-og.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<p>&nbsp;</p>\n",
+                "image": false,
+                "background_color": "#CCCCCC"
+            }
+        },
+        {
+            "type": "section",
+            "block": {
+                "title": "Solve Mazes, Unlock Puzzles, Fight Monsters!",
+                "subtitle": "",
+                "html": "<p><span style=\"font-weight: 400;\">Dive into adventure with an immersive puzzle-platforming minigame.  Players must use their brains, skills and bravery to clear eleven puzzle, challenge and mob-filled levels, culminating in a bombastic final boss-fight.</span></p>\n<p><img class=\"alignnone size-medium wp-image-32\" src=\"http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084554/2018-03-15_14.46.38-300x188.png\" alt=\"\" width=\"300\" height=\"188\" srcset=\"http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084554/2018-03-15_14.46.38-300x188.png 300w, http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084554/2018-03-15_14.46.38-768x480.png 768w, http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084554/2018-03-15_14.46.38-1024x640.png 1024w, http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13084554/2018-03-15_14.46.38-1568x980.png 1568w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<h2><span style=\"font-weight: 400;\">Learn to manage diabetes</span></h2>\n<p><span style=\"font-weight: 400;\">During early levels, players can experience and experiment with key concepts of type 1 diabetes management, including:</span></p>\n<p>&nbsp;</p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Insulin and Blood Glucose Levels (BGLs)</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Hypoglycaemia (Low Blood Glucose) and Hyperglycaemia (High Blood Glucose)</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">How exercise effects Insulin</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The impact of Food choice and Glycaemic Index on BGLs</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: 400;\">As they progress, players learn to monitor and manage the different aspects of their condition in order to unlock secrets and progress through the world.</span></p>\n<p>&nbsp;</p>\n<h2><span style=\"font-weight: 400;\">Gain special powers</span></h2>\n<p><span style=\"font-weight: 400;\">In MC:T1, diabetes isn’t all doom and gloom.  Through the magic of Glykosan alchemists, well-managed players can unlock special abilities like superspeed and high-jump, opening up a new world of gaming and combat possibilities.  But beware – with great power comes great responsibility…</span></p>\n<p>&nbsp;</p>\n<h2><span style=\"font-weight: 400;\">Save the world</span></h2>\n<p><span style=\"font-weight: 400;\">The evil Wither Demon has declared war on the alchemists of [worldname]. Only players who master their condition, and the powers it brings, will be able to conquer his fortress and restore peace to the land.</span></p>\n",
+                "image": false,
+                "background_color": "#d3abab"
+            }
+        }
+    ],
+    "socials": [
+        {
+            "url": "https://github.com/Magikcraft",
+            "icon": "http://storage.googleapis.com/magikcraft/wp-content/uploads/2019/04/13085833/github.png",
+            "label": "GitHub!"
+        }
+    ]
+}
